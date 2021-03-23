@@ -4,7 +4,7 @@ For some reason, Phenomic made it quite complicated to replace the title screen 
 # Prequisites
 - Install Java 14 first
 - Download the latest release .jar-File (Java executable)
-- Design a new title screen as you like but with a width of 991 and a height of 743 pixels
+- Design a new title screen as you like but with a width of 1026 and a height of 770 pixels
 - Save it as a .png image
 - Create a folder where the output tiles will be saved
 
